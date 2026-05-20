@@ -1,4 +1,4 @@
-#  BLUA — Sistema de Gerenciamento de Fila de Atendimento
+#  BLUA - Sistema de Gerenciamento de Fila de Atendimento
 
 **Care Plus | Sprint: Estruturas de Dados Aplicadas à Saúde Digital**
 
